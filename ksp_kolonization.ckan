@@ -1,0 +1,240 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "KSP-Kolonization",
+    "name": "KSP Kolonization",
+    "abstract": "A list of modules installed on the Auto KSP KSP instance",
+    "author": "nicop",
+    "version": "2024.07.05.01.11.43",
+    "ksp_version_min": "1.12.5",
+    "ksp_version_max": "1.12.5",
+    "license": "unknown",
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "Chatterer"
+        },
+        {
+            "name": "ChattererExtended"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ContractConfigurator-CleverSats"
+        },
+        {
+            "name": "ContractConfigurator-ExplorationPlus"
+        },
+        {
+            "name": "ContractConfigurator-FieldResearch"
+        },
+        {
+            "name": "ContractConfigurator-KerbalAcademy"
+        },
+        {
+            "name": "ContractConfigurator-KerbinSpaceStation"
+        },
+        {
+            "name": "ContractConfigurator-PlanesWithPurposes"
+        },
+        {
+            "name": "ContractConfigurator-RemoteTech"
+        },
+        {
+            "name": "ContractConfigurator-Tourism"
+        },
+        {
+            "name": "DE-IVAExtension"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "FirespitterResourcesConfig"
+        },
+        {
+            "name": "FreeIva"
+        },
+        {
+            "name": "HideEmptyTechNodes"
+        },
+        {
+            "name": "KerbalActuators"
+        },
+        {
+            "name": "KerbalAircraftExpansion"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "Konstruction"
+        },
+        {
+            "name": "MarkIVSpaceplaneSystem"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureElectrical-Core"
+        },
+        {
+            "name": "NearFutureExploration"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFuturePropulsion-XenonHETs"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "NearFutureSpacecraft-OrbitalLFOEngines"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "RealPlume"
+        },
+        {
+            "name": "RealPlume-StockConfigs"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "ResearchAdvancementDivision"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "Scatterer-sunflare"
+        },
+        {
+            "name": "ScienceAlert"
+        },
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "StockNoContracts"
+        },
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "Trajectories"
+        },
+        {
+            "name": "TriggerAu-Flags"
+        },
+        {
+            "name": "UKS"
+        },
+        {
+            "name": "USI-ART"
+        },
+        {
+            "name": "USI-Core"
+        },
+        {
+            "name": "USI-EXP"
+        },
+        {
+            "name": "USI-FTT"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "USITools"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "WaypointManager"
+        },
+        {
+            "name": "xScienceContinued"
+        },
+        {
+            "name": "ZeroMiniAVC"
+        }
+    ],
+    "release_date": "2024-07-05T13:11:43.1838056Z",
+    "kind": "metapackage"
+}
